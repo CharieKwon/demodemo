@@ -1,4 +1,4 @@
-https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-professional/view/1/
+https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate/view/1/
 
 
 [Infra 비정기] Infra 고도화 성능 검증
